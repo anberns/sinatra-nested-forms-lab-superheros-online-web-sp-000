@@ -72,4 +72,8 @@ DEPENDENCIES
   thin (= 1.6.4)
 
 BUNDLED WITH
+<<<<<<< HEAD
    2.0.1
+=======
+   1.17.3
+>>>>>>> 41a75a2bbc3404043f29eb54117c61748a2958fb
